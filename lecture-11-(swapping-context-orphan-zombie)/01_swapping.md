@@ -1,5 +1,3 @@
-Let’s break this **"Swapping"** concept down into a **very very detailed and beginner-friendly explanation**, step-by-step. I’ll also explain the **diagram** at the end in the same detailed way.
-
 ## 🧠 First, What is Swapping?
 
 Swapping is a **memory management technique** used by operating systems (like Windows, Linux, etc.).

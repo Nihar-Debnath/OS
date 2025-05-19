@@ -1,4 +1,4 @@
-=**Operating System (OS) creates a process** from a **program**—this is fundamental to understanding how modern computers work.
+**Operating System (OS) creates a process** from a **program**—this is fundamental to understanding how modern computers work.
 
 Let’s break down each step **clearly**, with a **real-world analogy** where needed.
 

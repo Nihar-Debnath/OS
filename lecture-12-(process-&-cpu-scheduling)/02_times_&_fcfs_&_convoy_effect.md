@@ -1,5 +1,3 @@
-Let’s continue with a very **detailed, beginner-friendly** explanation of the next part of **CPU Scheduling** and why each concept is important.
-
 ## 📌 5. Goals of CPU Scheduling
 
 ### What is the purpose of CPU Scheduling?
@@ -74,6 +72,8 @@ Let’s break down each goal:
 ## 🛑 12. Completion Time (CT)
 - When the process **completes all its execution**.
 - CT is needed to calculate TAT.
+
+---
 
 ## 🚦 13. FCFS (First Come First Serve)
 

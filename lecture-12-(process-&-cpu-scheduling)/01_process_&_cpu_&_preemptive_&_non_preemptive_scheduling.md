@@ -1,5 +1,3 @@
-Let’s break down **Lecture 12: Intro to Process Scheduling** into a very detailed, beginner-friendly explanation. We'll explain what it is, why we need it, and walk through each point clearly.
-
 ## 🧠 What is Process Scheduling?
 Before diving into the specific points, let’s understand what process scheduling means and **why it's important**:
 
@@ -38,6 +36,8 @@ This is the foundation of multi-tasking in any computer.
   
 🟢 **Why it matters**: Without this, one big program could block everything else!
 
+---
+
 ### **2. CPU Scheduler**
 This is like the **manager** in charge of choosing who gets to use the CPU.
 
@@ -51,6 +51,8 @@ This is like the **manager** in charge of choosing who gets to use the CPU.
   - It works **frequently** and must be **fast**, as it runs often.
 
 🟢 **Why it matters**: It keeps the CPU busy and ensures smooth operation by managing who runs next.
+
+---
 
 ### **3. Non-Preemptive Scheduling**
 Once a process starts using the CPU, it **keeps it until it finishes or waits**.
@@ -68,6 +70,9 @@ Once a process starts using the CPU, it **keeps it until it finishes or waits**.
 - If the running process **is not using CPU actively** (maybe it's waiting for input), CPU **sits idle**, which is **inefficient**.
 
 🟠 **Why it's less preferred**: Not ideal for modern systems where fairness and responsiveness are needed.
+
+---
+
 
 ### **4. Preemptive Scheduling**
 This is more common and smarter for multitasking systems.

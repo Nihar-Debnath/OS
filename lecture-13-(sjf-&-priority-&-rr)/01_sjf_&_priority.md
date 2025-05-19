@@ -1,5 +1,3 @@
-Let's continue with a **very beginner-friendly and detailed explanation** of Lecture 13 topics related to **CPU Scheduling**: SJF, Priority Scheduling, and RR.
-
 # 🧠 What Is CPU Scheduling Again?
 
 It’s the **way the operating system decides** which process gets to use the CPU and for how long.
@@ -38,6 +36,9 @@ The goal is to:
 - Arrival Time (AT) + Burst Time (BT)
 - Pick the job with **smallest BT among all that have arrived**.
 
+
+---
+
 ## 🔹 2. **Shortest Job First – Preemptive (Also called Shortest Remaining Time First)**
 
 ### 📌 What is it?
@@ -72,6 +73,9 @@ Let’s simplify:
 
 ### 🔁 b. **SJF Is a Special Case of Priority Scheduling**
 - If you use **Burst Time as a priority (shorter = higher)**, SJF becomes a form of priority scheduling.
+
+---
+
 
 ## 🔸 4. **Priority Scheduling – Preemptive**
 
