@@ -1,0 +1,1 @@
+### From lecture 14 to lecture <>, watch them again because on these lecture there are codes for implementing what have you learned, But just because i am doing this for my sems exams i have skipped it, so after the exam make sure to learn them properly
