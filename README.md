@@ -1,3 +1,24 @@
-### From lecture 1 to last lecture, watch them again because on these lecture there are so many things But just because i am doing this for my sems exams i have skipped it, so after the exam make sure to learn them properly
+### On lecture - 6,7,8,23 there are extra and leetcode problem, which i skipped because i have exams, please redo all this and solves also
 
-### On lecture-23 there are leetcode problem, which i skipped because i have exams, please redo all this and solves this
+---
+
+### OS -- Important Topics ✔️
+
+1. Introduction
+    * Os features ✔️
+    * Different types of OS ✔️
+2. Process
+    + Process life cycle 
+    + Schedulers 
+    + Scheduling Algorithms 
+    + Semaphore 
+3. Deadlocks
+    + Deadlock 
+    + Bankers Algorithm 
+4. Memory mgmt
+    + Memory Allocation 
+    + Memory Fragmentation 
+    + Virtual Memory 
+5.  I/O Hardware & Disk mgmt
+    + Page Replcement Algorithms 
+    + Disk Scheduling Algorithms 

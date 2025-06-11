@@ -1,5 +1,3 @@
-No problem! Let me explain the concept of **System Calls** from your lecture note (titled *LEC-5: System Calls*) in **very simple and detailed terms**, step by step.
-
 ## 🧠 What is a System Call?
 
 Imagine your **computer as a building**, and the **operating system’s kernel** is a **restricted control room** inside that building. The **user programs (apps)** are like people working outside this control room. Now, if someone wants to perform a restricted operation—like turning off the lights (hardware control), or opening a locked file cabinet (file system)—they can’t just go inside the control room. Instead, they have to **press a button (a system call)** to request help from the inside.

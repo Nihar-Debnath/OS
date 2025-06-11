@@ -127,8 +127,6 @@ Great question! Let’s walk through **how everything happens in a PC** when it 
 - Stored in a small **chip** on the **motherboard**, usually right next to the BIOS/UEFI chip.
 - Powered by the **CMOS battery** (a round silver battery, CR2032).
 
-![Example of CMOS Battery](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/CMOS_battery_on_a_computer_motherboard.jpg/320px-CMOS_battery_on_a_computer_motherboard.jpg)
-
 ### 🧠 CMOS Contains:
 
 - System clock (time/date)
@@ -146,7 +144,7 @@ Great question! Let’s walk through **how everything happens in a PC** when it 
   - Boot order and BIOS settings are lost
   - You may see errors like: *"CMOS checksum error"*
 
-## 🏗 Physical Layout of Key Boot Components on a PC
+## Physical Layout of Key Boot Components on a PC
 
 Here’s a rough mapping:
 

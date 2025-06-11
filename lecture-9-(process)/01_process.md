@@ -82,7 +82,6 @@ Disk (program) --> RAM (process loaded)
 
 ---
 
-Let me explain the **Process Control Block (PCB)** in a detailed, continuous manner—like a story—so it’s easy to follow and understand.
 
 ## 🧠 What is a PCB?
 

@@ -1,7 +1,3 @@
-Great question! Let’s understand **how communication happens between user mode and kernel mode** in a computer system.
-
----
-
 ## 🧠 First: What are User Mode and Kernel Mode?
 
 - **User Mode**: Where your applications run (like Chrome, games, or code editors). It has **limited access** to hardware.
@@ -75,13 +71,12 @@ Different CPUs/OSes use different **mechanisms**:
 | 5 | CPU **returns to user mode**, sends result back |
 
 ---
+---
 
-Excellent follow-up! You're asking:  
 > **Where does IPC (Inter-Process Communication) fit in this user mode ↔ kernel mode interaction?**
 
 Let me explain that clearly:
 
----
 
 ## 🔹 **What is IPC?**
 

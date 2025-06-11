@@ -32,20 +32,44 @@ All of these are parts of the **same program**, running as **threads** inside on
 - Multithreading = Multiple **threads/tasks inside one program**
 - Example: In MS Word, one thread checks spelling, another saves your file automatically
 
-## 🔄 Difference in One Line:
-
-| Feature          | Multitasking                  | Multithreading                      |
-|------------------|-------------------------------|-------------------------------------|
-| Based on         | Multiple **processes**        | Multiple **threads in one process** |
-| Example          | Chrome + Spotify + Word       | Chrome loading 3 tabs at once       |
-| Used for         | Running many programs         | Making one program faster           |
-
-
 ---
 
-```
-so that means process are like diff apps and threads are like diff tabs inside a app, then why does process takes 1 cpu and threads are take more than one cpu, if you thik logically in threads there are only one app is running which means that should use only one cpu, can yopu explain it for me?
-```
+If **threads are not used**, the program will usually take **longer to finish**, especially for **tasks that can be done in parallel** (like file conversion, image rendering, etc.).
+
+
+### 🔁 Why?
+
+Let’s compare both situations:
+
+
+### 🔹 **Without Threads (Single-threaded Process):**
+
+* Only **one task runs at a time** inside the process.
+* Example: Your file converter processes the video **part by part** — one after another.
+* ⏱️ Takes longer because no part is done in parallel.
+
+
+### 🔹 **With Threads (Multithreading):**
+
+* Multiple **parts of the task run at the same time** (in separate threads).
+* Example: File converter splits video into 4 parts, and **4 threads** convert each part **simultaneously**.
+* ⏱️ **Faster** overall processing because threads share memory and work in parallel.
+
+---
+### 📌 So, we can say:
+
+> ❗ "If threads are not available, the same task done by a process will **take longer time** because it cannot **run parts of the task in parallel**."
+
+### 🧠 Real-life Analogy:
+
+* **No threads:** One worker copies a whole book **page by page**.
+* **With threads:** Four workers each copy 1/4 of the book at the same time — done much **faster**!
+
+---
+---
+---
+
+> so that means process are like diff apps and threads are like diff tabs inside a app, then why does process takes 1 cpu and threads are take more than one cpu, if you thik logically in threads there are only one app is running which means that should use only one cpu, can yopu explain it for me?
 
 Excellent question — and you're thinking in the **right direction**. Let me explain this step by step in simple logic.
 
@@ -92,12 +116,11 @@ The process is just a container:
 
 ✅ So even if only **one app (process)** is running, if it has **many threads**, it **can use many CPU cores** at once.
 
-
+---
+---
 ---
 
-```
-In multi-tasking there is isolation and memory protection is available, on the other hand in multi-threading there is no isolation and memory peotection why? can you explain it.
-```
+> In multi-tasking there is isolation and memory protection is available, on the other hand the multi-threading there is no isolation and memory protection why? can you explain it.
 
 Yes — that’s a **very good observation**, and it’s an important concept in operating systems. Let’s break it down in a **simple and clear way**.
 
@@ -145,10 +168,9 @@ Threads are **meant to cooperate**, not compete. They work **together** inside t
 | Risk of Crash Spread | ❌ Less                        | ✅ High if not handled properly   |
 
 ---
+---
 
-```
-So nowadays if i open my bank server in one tab and on other tab i am using a pirate website for downloading movies, do they will can access my bank server which i opened to check my balance?
-```
+> So nowadays if i open my bank server in one tab and on other tab i am using a pirate website for downloading movies, do they will can access my bank server which i opened to check my balance?
 
 Excellent and important question. The **short answer is: No, one browser tab cannot directly access another tab’s content**, **even if both are in the same browser** — thanks to **strong security models built into modern browsers**.
 
@@ -199,9 +221,8 @@ So the pirate site can’t read your bank tab directly, but it **can harm your s
 
 ---
 
-```
-so when i downloads any pirated movies from that website, do i am harming my pc, phone
-```
+
+> so when i downloads any pirated movies from that website, do i am harming my pc, phone
 
 Yes — **downloading pirated movies** from untrusted websites can absolutely **harm your PC or phone**, even if the file looks safe. Here's why:
 

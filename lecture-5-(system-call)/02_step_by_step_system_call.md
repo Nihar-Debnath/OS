@@ -1,5 +1,3 @@
-Let's break down what happens at each step of your hello script and shell commands, and then count and explain the **system calls** involved.
-
 ## 🧪 Your Script: `hello.sh`
 
 ```sh
