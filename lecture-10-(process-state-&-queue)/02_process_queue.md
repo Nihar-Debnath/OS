@@ -1,5 +1,3 @@
-Let's explain **Process Queues** in **very, very simple terms** — like you're learning it for the first time ever.
-
 ### 🔁 What is a "Queue" in OS?
 
 A **queue** is just a **line of waiting processes** — like people standing in different lines for different things.

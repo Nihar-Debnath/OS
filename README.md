@@ -1,4 +1,4 @@
-### On lecture - 6,7,8,23 there are extra and leetcode problem, which i skipped because i have exams, please redo all this and solves also
+### On lecture - 6,7,8,23,30,bonus there are extra and leetcode problem, which i skipped because i have exams, please redo all this and solves also
 
 ---
 
@@ -8,9 +8,9 @@
     * Os features ✔️
     * Different types of OS ✔️
 2. Process
-    + Process life cycle 
-    + Schedulers 
-    + Scheduling Algorithms 
+    + Process life cycle ✔️
+    + Schedulers ✔️
+    + Scheduling Algorithms ✔️
     + Semaphore 
 3. Deadlocks
     + Deadlock 

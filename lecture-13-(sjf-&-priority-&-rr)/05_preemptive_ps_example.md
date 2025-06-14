@@ -14,7 +14,7 @@
 | P6      | 12       | 5                 | 4               |
 | P7      | 9        | 6                 | 6               |
 
-**Note:** Lower priority number = **higher actual priority**
+**Note:** higher priority number = **higher actual priority**
 
 ---
 
@@ -24,7 +24,7 @@
 
 * Only P1 has arrived
 * So run **P1**
-* ⏱️ Time: 0 → 1 (This will run for 1 sec because the preemptive prioroty scheduler will check is there any other higher priority process)
+* ⏱️ Time: 0 → 1 (This will run for 1 sec because the preemptive priority scheduler will check is there any other higher priority process)
 
 | Process | Priority | Arrival Time (AT) | Burst Time (BT) |
 | ------- | -------- | ----------------- | --------------- |
@@ -47,7 +47,7 @@
 * Now arrived: P3
 * Available = P1, P2
 * So pick **P3**
-* Run P6 → 2 to 3
+* Run P3 → 2 to 3
 
 | Process | Priority | Arrival Time (AT) | Burst Time (BT) |
 | ------- | -------- | ----------------- | --------------- |

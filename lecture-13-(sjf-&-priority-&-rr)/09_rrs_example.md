@@ -13,8 +13,7 @@ Consider the following set of processes with their arrival times and burst times
 
 **Create a Gantt Chart using Round Robin (TQ = 2)**
 
-We use a queue to keep track of processes. At each step, we execute a process for up to 2 units 
----or until it finishes.
+We use a queue to keep track of processes. At each step, we execute a process for up to 2 units or until it finishes.
 
 #### 🔹 t = 0
 
@@ -29,8 +28,7 @@ We use a queue to keep track of processes. At each step, we execute a process fo
 
 | Process | Arrival Time (AT) | Burst Time (BT) |
 | ------- | ----------------- | --------------- |
-
----| P1      | 0                 | 4 - 2 = 2       |
+| P1      | 0                 | 4 - 2 = 2       |
 
 #### 🔹 t = 2
 

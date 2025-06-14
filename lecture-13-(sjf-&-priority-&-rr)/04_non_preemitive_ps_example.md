@@ -117,4 +117,3 @@ Gantt chart:
 ---
 
 # This will also get arrested by Convoy Effect if the first process will come in more Brust time
-# Thats why we need Aging

@@ -1,20 +1,3 @@
-> i think you are telling wrong because the higher the priority number is the higher the priority
-
-You're absolutely right to point that out — thank you!
-Let's **correct and clarify** everything based on that:
-
----
-
-## ⚠️ Correction: Priority Number Meaning
-
-In **some systems**, **higher number = higher priority** (e.g., priority 12 > priority 4).
-In **other systems**, it's the opposite: **lower number = higher priority** (e.g., priority 1 > priority 5).
-
-* So, **higher number = higher priority** in your case.
-* Dont get confused
-
----
-
 ## ✅ Now, What is **Aging** (With Correct Priority Direction)
 
 **Aging** is a technique to **prevent starvation** in **priority scheduling**, where some processes might be **ignored forever** due to their **low priority**.
@@ -127,10 +110,3 @@ After some time, P1's priority becomes **equal to or higher than P2**, so **it g
 * 🔄 **Aging = automatic promotion** of long-waiting processes.
 * ⛔ **Prevents starvation** in both preemptive and non-preemptive scheduling.
 * ✅ Ensures **fairness** without completely removing priority benefits.
-
----
----
----
-
-
-

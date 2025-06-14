@@ -66,7 +66,19 @@ Let’s simplify:
 
 ### 📌 What is it?
 - Every process is given a **priority** when it’s created.
-- CPU picks the process with the **highest priority** (lower number = higher priority).
+- CPU picks the process with the **highest priority** (higher number = higher priority).
+
+---
+
+## ⚠️ Correction: Priority Number Meaning
+
+In **some systems**, **higher number = higher priority** (e.g., priority 12 > priority 4).
+In **other systems**, it's the opposite: **lower number = higher priority** (e.g., priority 1 > priority 5).
+
+* So, **higher number = higher priority** in your case.
+* Dont get confused
+
+---
 
 ### 📘 a. **Assigned at Creation Time**
 - Like giving students ranks: Process with **Rank 1 goes first**.
