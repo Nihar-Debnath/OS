@@ -38,7 +38,7 @@ Here’s the breakdown from the image and your content:
 * A game (interactive) would stay in a higher queue.
 * A large file compression (long CPU time) would move to a lower queue.
 
-#### ➕ Extra Benefit: **Ageing**
+#### ➕ Extra Benefit: **Aging**
 
 * If a process is stuck too long in a low queue, it may be moved up to avoid **starvation** (waiting forever).
 

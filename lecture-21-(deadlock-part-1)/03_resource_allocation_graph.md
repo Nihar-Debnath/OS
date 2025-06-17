@@ -1,7 +1,3 @@
-Great! Let’s break this down into **very simple, beginner-level explanations**. We'll understand what a **Resource Allocation Graph (RAG)** is, what **vertex** and **edges** mean, what types there are, and then I’ll show **text-based visual diagrams** so you can understand clearly.
-
----
-
 ## 💡 What is a Resource Allocation Graph (RAG)?
 
 A **Resource Allocation Graph (RAG)** is a simple way to **show who is using what** and **who is waiting for what** in a system.

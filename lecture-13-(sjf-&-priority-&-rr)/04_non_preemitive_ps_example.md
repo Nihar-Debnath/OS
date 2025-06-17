@@ -116,4 +116,4 @@ Gantt chart:
 
 ---
 
-# This will also get arrested by Convoy Effect if the first process will come in more Brust time
+# This will also get arrested by Convoy Effect if the first process will come in more Brust time and also gets Starvation if fiher priority process come again and again

@@ -110,7 +110,7 @@
 #### 🔹 t = 12
 
 * Remaining = P1, P2, P3, P5, P7
-* Highest priority = **P7 (priority 4)**
+* Highest priority = **P7 (priority 9)**
 * So pick **P7**
 * Run P7 → 12 to 18
 
@@ -218,5 +218,5 @@ Gantt chart:
 
 ---
 
-# This will also get arrested by Convoy Effect because if the highest priority process will continously coming then the lower priority will take a long long time
+# This will also get arrested by Convoy Effect and Starvation because if the highest priority process will continously coming then the lower priority will take a long long time
 # Thats why we need Aging

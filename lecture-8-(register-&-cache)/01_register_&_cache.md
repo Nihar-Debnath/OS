@@ -1,5 +1,3 @@
-Let's break down how **registers** and **cache memory** work inside a computer, especially in the context of the operating system (OS), using **real-world analogies** that are easy to picture.
-
 ## 🧠 The CPU, Registers, and Cache: A Real-Life Office Analogy
 
 Imagine your **CPU** is a **worker at a desk** in an office.

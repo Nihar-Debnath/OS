@@ -192,7 +192,3 @@ Exactly! ✅ You're absolutely right.
 | True parallelism?      | ❌ No (just fast switching) | ✅ Yes (actual parallel execution) |
 | Performance boost?     | ⚠️ Limited                 | ✅ Significant                     |
 
----
-
-Let me know if you want a diagram or real-world example (like cooking with one vs multiple chefs).
-

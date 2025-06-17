@@ -1,7 +1,5 @@
 **Operating System (OS) creates a process** from a **program**—this is fundamental to understanding how modern computers work.
 
-Let’s break down each step **clearly**, with a **real-world analogy** where needed.
-
 ## 🧱 First, What’s the Difference?
 - A **program** is just **a file on disk** (like `game.exe` or `hello.py`).
 - A **process** is that program **loaded and actively running** in memory, with its own CPU time, memory, and resources.

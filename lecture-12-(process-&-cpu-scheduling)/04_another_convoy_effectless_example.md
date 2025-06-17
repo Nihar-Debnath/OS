@@ -1,4 +1,4 @@
-# So here we just roated the process from previous example
+# So here we just rotated the process from previous example
 
 ### 📋 Given Data:
 

@@ -1,4 +1,4 @@
-This diagram shows the **Process State Transition Diagram**, which explains how a program becomes a process and how it moves through different **states during its lifetime** in an operating system.
+The **Process State Transition Diagram**, which explains how a program becomes a process and how it moves through different **states during its lifetime** in an operating system.
 
 Let’s go through each state and transition in **very simple terms**:
 

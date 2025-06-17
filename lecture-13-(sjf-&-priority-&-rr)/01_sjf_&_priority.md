@@ -84,7 +84,7 @@ In **other systems**, it's the opposite: **lower number = higher priority** (e.g
 - Like giving students ranks: Process with **Rank 1 goes first**.
 
 ### 🔁 b. **SJF Is a Special Case of Priority Scheduling**
-- If you use **Burst Time as a priority (shorter = higher)**, SJF becomes a form of priority scheduling.
+- If you use **Burst Time as a priority (higher = higher)**, SJF becomes a form of priority scheduling.
 
 ---
 

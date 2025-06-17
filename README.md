@@ -11,10 +11,10 @@
     + Process life cycle ✔️
     + Schedulers ✔️
     + Scheduling Algorithms ✔️
-    + Semaphore 
+    + Semaphore ✔️
 3. Deadlocks
-    + Deadlock 
-    + Bankers Algorithm 
+    + Deadlock ✔️
+    + Bankers Algorithm ✔️
 4. Memory mgmt
     + Memory Allocation 
     + Memory Fragmentation 

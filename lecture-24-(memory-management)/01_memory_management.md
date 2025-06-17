@@ -1,4 +1,3 @@
-
 ### 🧠 **Main Idea: Why Do We Need This?**
 
 Imagine you’re at a library 📚 where many students are working on their projects. There’s only **one table (CPU)**, but many students **take turns** to sit and do their work. All students can’t sit together, so the librarian (your Operating System) has to be smart and keep track of **who is doing what**, **where their stuff is**, and **who gets to sit next**.
